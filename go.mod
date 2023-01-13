@@ -3,9 +3,8 @@ module github.com/ElioenaiFerrari/nfebotapi
 go 1.18
 
 require (
-	github.com/8BITS-COLAB/nfebot/v2 v2.2.1
+	github.com/8BITS-COLAB/nfebot/v3 v3.0.0
 	github.com/gofiber/fiber/v2 v2.40.1
-	github.com/gofiber/template v1.7.3
 )
 
 require (
